@@ -1,0 +1,21 @@
+{
+  "managers": [
+    {
+      "id": 1,
+      "name": "Ricky"
+    },
+    {
+      "id": 2,
+      "name": "Jack"
+    },
+    {
+      "id": 3,
+      "name": "Jack"
+    },
+    {
+      "id": 4,
+      "name": "Tom"
+    }
+  ],
+  "projects": []
+}
